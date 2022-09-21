@@ -10,4 +10,12 @@
 
 <img alt="image" src="Lollipop_Chart.png" width="400" height="400">
 <img alt="image" src="xGA_differential.png" width="400" height="600">
+<img alt="image" src="JPK_Voronoi.png" width="800" height="400">
+<img alt="image" src="Pass_map.png" width="800" height="400">
+<img alt="image" src="Pizza_KM_EH.jpg" width="800" height="400">
+<img alt="image" src="shot_map.png" width="400" height="600">
+
+
+
+
 
