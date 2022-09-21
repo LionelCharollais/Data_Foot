@@ -8,4 +8,4 @@
 
 ![My Image](Lollipop_Chart.png)
 
-![My Image](xG_differential.png)
+![My Image](xGA_differential.png)
