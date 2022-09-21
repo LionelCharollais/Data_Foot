@@ -8,6 +8,6 @@
 
 
 
-<img alt="image" src="Lollipop_Chart.png" width="800" height="800">
-<img alt="image" src="xGA_differential.png" width="600" height="800">
+<img alt="image" src="Lollipop_Chart.png" width="400" height="400">
+<img alt="image" src="xGA_differential.png" width="400" height="600">
 
