@@ -5,3 +5,5 @@
 * Pizza chart | Kylian Mbappé VS Erling Haaland
 * Pass plot | Lionel Messi VS Betis
 * Voronoi Diagram | Jean-Philipe Krasso VS QRM
+
+![My Image](Lollipop_Chart.png)
