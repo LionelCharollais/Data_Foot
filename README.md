@@ -7,5 +7,7 @@
 * Voronoi Diagram | Jean-Philipe Krasso VS QRM
 
 ![My Image](Lollipop_Chart.png)
+<img src="Lollipop_Chart.png" alt="drawing" width="50"/>
 
 ![My Image](xGA_differential.png)
+<img src="xGA_differential.png" alt="drawing" width="50"/>
