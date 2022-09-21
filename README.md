@@ -7,3 +7,5 @@
 * Voronoi Diagram | Jean-Philipe Krasso VS QRM
 
 ![My Image](Lollipop_Chart.png)
+
+![My Image](xG_differential.png)
